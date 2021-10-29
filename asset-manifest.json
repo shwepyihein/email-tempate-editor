@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/email-tempate-editor/static/js/main.cb7112a1.chunk.js",
+    "main.js.map": "/email-tempate-editor/static/js/main.cb7112a1.chunk.js.map",
+    "runtime-main.js": "/email-tempate-editor/static/js/runtime-main.ac53f047.js",
+    "runtime-main.js.map": "/email-tempate-editor/static/js/runtime-main.ac53f047.js.map",
+    "static/js/2.0c9f73be.chunk.js": "/email-tempate-editor/static/js/2.0c9f73be.chunk.js",
+    "static/js/2.0c9f73be.chunk.js.map": "/email-tempate-editor/static/js/2.0c9f73be.chunk.js.map",
+    "static/js/3.f9c52aeb.chunk.js": "/email-tempate-editor/static/js/3.f9c52aeb.chunk.js",
+    "static/js/3.f9c52aeb.chunk.js.map": "/email-tempate-editor/static/js/3.f9c52aeb.chunk.js.map",
+    "index.html": "/email-tempate-editor/index.html",
+    "static/js/2.0c9f73be.chunk.js.LICENSE.txt": "/email-tempate-editor/static/js/2.0c9f73be.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ac53f047.js",
+    "static/js/2.0c9f73be.chunk.js",
+    "static/js/main.cb7112a1.chunk.js"
+  ]
+}
